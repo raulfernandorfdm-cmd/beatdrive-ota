@@ -3,6 +3,26 @@
                      {
                          "minAndroidSdk":  26,
                          "minimumRequiredVersionCode":  null,
+                         "apkUrl":  "https://raw.githubusercontent.com/raulfernandorfdm-cmd/beatdrive-ota/main/releases/beat-drive-0.2.2-universal.apk",
+                         "releaseNotes":  [
+                                              "APK universal para teléfono Android y radio ARMv7",
+                                              "Compatibilidad ARM64 y ARMv7",
+                                              "Canal OTA remoto activo"
+                                          ],
+                         "publishedAt":  "2026-11-18T04:00:00Z",
+                         "sha256":  "87b6994762cbaff4b9c471b93a24f0e45176d480c0b2985f98b2715ffc5413bd",
+                         "supportedAbis":  [
+                                               "armeabi-v7a",
+                                               "arm64-v8a"
+                                           ],
+                         "isMandatory":  false,
+                         "versionName":  "0.2.2",
+                         "versionCode":  4,
+                         "sizeBytes":  11488006
+                     },
+                     {
+                         "minAndroidSdk":  26,
+                         "minimumRequiredVersionCode":  null,
                          "apkUrl":  "https://raw.githubusercontent.com/raulfernandorfdm-cmd/beatdrive-ota/main/releases/beat-drive-0.2.1-armv7.apk",
                          "releaseNotes":  [
                                               "Canal OTA remoto activo",
