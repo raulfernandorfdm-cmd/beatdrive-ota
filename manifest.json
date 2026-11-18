@@ -3,20 +3,20 @@
                      {
                          "minAndroidSdk":  26,
                          "minimumRequiredVersionCode":  null,
-                         "apkUrl":  "https://raw.githubusercontent.com/raulfernandorfdm-cmd/beatdrive-ota/main/releases/beat-drive-0.2.4-universal.apk",
+                         "apkUrl":  "https://raw.githubusercontent.com/raulfernandorfdm-cmd/beatdrive-ota/main/releases/beat-drive-0.2.5-universal.apk",
                          "releaseNotes":  [
-                                              "Tarjetas del tablero con diseño más discreto",
-                                              "Menos fondos y separación visual"
+                                              "Tarjetas del tablero con diseño discreto",
+                                              "Menor ruido visual y mejor legibilidad"
                                           ],
-                         "publishedAt":  "2026-11-18T04:15:52Z",
-                         "sha256":  "a24d28da88f2c2509208f88ddda18edb2561e4058c92b3b2d12ec5470808218e",
+                         "publishedAt":  "2026-11-18T04:18:09Z",
+                         "sha256":  "c760abe50612e0bccdf66abc964fa2f0542e63201d05dbfbaf487577495001b7",
                          "supportedAbis":  [
                                                "armeabi-v7a",
                                                "arm64-v8a"
                                            ],
                          "isMandatory":  false,
-                         "versionName":  "0.2.4",
-                         "versionCode":  6,
+                         "versionName":  "0.2.5",
+                         "versionCode":  7,
                          "sizeBytes":  11488010
                      }
                  ],
