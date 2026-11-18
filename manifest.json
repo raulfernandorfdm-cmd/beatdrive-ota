@@ -3,20 +3,20 @@
                      {
                          "minAndroidSdk":  26,
                          "minimumRequiredVersionCode":  null,
-                         "apkUrl":  "https://github.com/raulfernandorfdm-cmd/beatdrive-ota/releases/download/v0.2.0/app-armeabi-v7a-debug.apk",
+                         "apkUrl":  "https://github.com/raulfernandorfdm-cmd/beatdrive-ota/releases/download/v0.2.1/app-armeabi-v7a-debug.apk",
                          "releaseNotes":  [
-                                              "Versión inicial OTA de BEAT DRIVE",
-                                              "Comprobación automática de actualizaciones"
+                                              "Canal OTA remoto activo",
+                                              "Actualización de prueba recibida por OTA"
                                           ],
-                         "publishedAt":  "2026-11-18T03:48:00Z",
-                         "sha256":  "d147d84e4f74412e1b58b4dad06690f5669fe28ff08840e6a24756e1cd578175",
+                         "publishedAt":  "2026-11-18T03:56:59Z",
+                         "sha256":  "b96d724502e58822619a7f8a602b4d95d5faaa24a06eba332335ed19f6daf415",
                          "supportedAbis":  [
                                                "armeabi-v7a"
                                            ],
                          "isMandatory":  false,
-                         "versionName":  "0.2.0",
-                         "versionCode":  2,
-                         "sizeBytes":  11512828
+                         "versionName":  "0.2.1",
+                         "versionCode":  3,
+                         "sizeBytes":  11435095
                      }
                  ],
     "schemaVersion":  1,
