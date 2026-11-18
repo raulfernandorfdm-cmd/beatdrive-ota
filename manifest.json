@@ -3,21 +3,21 @@
                      {
                          "minAndroidSdk":  26,
                          "minimumRequiredVersionCode":  null,
-                         "apkUrl":  "https://raw.githubusercontent.com/raulfernandorfdm-cmd/beatdrive-ota/main/releases/beat-drive-0.2.10-universal.apk",
+                         "apkUrl":  "https://raw.githubusercontent.com/raulfernandorfdm-cmd/beatdrive-ota/main/releases/beat-drive-0.2.11-universal.apk",
                          "releaseNotes":  [
-                                              "Rotación libre vertical y horizontal",
-                                              "Manifiesto OTA fijado contra caché antigua",
-                                              "Ajustes compactos y icono BEAT DRIVE"
+                                              "Ajustes con diseño profesional",
+                                              "Cabecera, navegación y estados reorganizados",
+                                              "Interfaz más clara y compacta"
                                           ],
-                         "publishedAt":  "2026-11-18T04:40:22Z",
-                         "sha256":  "b00eb3bf9d0f6e2f307a932f110a57f8490b3004dce9a36932031f25791ebbc8",
+                         "publishedAt":  "2026-11-18T11:16:24Z",
+                         "sha256":  "e83685e19b941cf049d501e68c619ea027ad383d43620f9fa4ab6420b239a4c4",
                          "supportedAbis":  [
                                                "armeabi-v7a",
                                                "arm64-v8a"
                                            ],
                          "isMandatory":  false,
-                         "versionName":  "0.2.10",
-                         "versionCode":  12,
+                         "versionName":  "0.2.11",
+                         "versionCode":  13,
                          "sizeBytes":  11520378
                      }
                  ],
