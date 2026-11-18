@@ -3,7 +3,7 @@
                      {
                          "minAndroidSdk":  26,
                          "minimumRequiredVersionCode":  null,
-                         "apkUrl":  "https://github.com/raulfernandorfdm-cmd/beatdrive-ota/releases/download/v0.2.1/app-armeabi-v7a-debug.apk",
+                         "apkUrl":  "https://raw.githubusercontent.com/raulfernandorfdm-cmd/beatdrive-ota/main/releases/beat-drive-0.2.1-armv7.apk",
                          "releaseNotes":  [
                                               "Canal OTA remoto activo",
                                               "Actualización de prueba recibida por OTA"
